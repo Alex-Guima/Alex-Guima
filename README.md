@@ -13,7 +13,7 @@
   Watch anime and read manga and light novels.
   
 ## Focusing on:
-  Learning Web Development using Java/Spring
+  Learning Back-End Development using Java/Spring
 
   
 
