@@ -2,18 +2,18 @@
 
 ## About me:
 
-  I'm a Computer Science Student, love to be challenged and to solve problems using technology.
+  I'm a Computer Science Student, who loves to overcome challenges and to solve problems using technology.
   
   Based in Rio de Janeiro, Brazil.
   
 ## Interests and Hobbies:
   
-  Love to play and explore different kinds of games
+  - Play and explore different kinds of games
   
-  Watch anime and read manga and light novels.
+  - Watch anime, read manga and light novels.
   
 ## Focusing on:
-  Learning Back-End Development using Java/Spring
+  Learning Back-End Development using Java/Spring Boot
 
   
 
