@@ -2,7 +2,7 @@
 
 ## About me:
 
-  I'm an Aspiring Back-end Developer, who loves to overcome challenges and solve problems using technology.
+  I'm an Back-end Developer, who loves to overcome challenges and solve problems using technology.
   
   Based in Rio de Janeiro, Brazil.
   
