@@ -2,7 +2,7 @@
 
 ## About me:
 
-  I'm a Computer Science Student, who loves to overcome challenges and to solve problems using technology.
+  I'm an Aspiring Back-end Developer, who loves to overcome challenges and solve problems using technology.
   
   Based in Rio de Janeiro, Brazil.
   
